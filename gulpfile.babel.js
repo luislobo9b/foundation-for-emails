@@ -102,8 +102,8 @@ function inline() {
 // Start a server with LiveReload to preview the site in
 function server(done) {
   browser.init({
-    server: 'dist',
-    startPath: 'dist/index.html'
+    server: '',
+    startPath: 'dist/example.html'
   });
   done();
 }

@@ -57,3 +57,13 @@ table.button.google table td {
 .wrapper.secondary {
   background: #f3f3f3;
 }
+
+.g-0{
+  padding: 0 !important;
+}
+
+@media only screen and (max-width: 616px){
+  .g-0, table.body .column .g-0{
+    padding: 0 !important;
+  }
+}

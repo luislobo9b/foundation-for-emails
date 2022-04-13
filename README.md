@@ -1,3 +1,11 @@
+# Super Nosso Tutorial
+
+Passo a passo para rodar o projeto:
+1. npm install
+2. npm start
+
+
+
 # Foundation for Emails Template
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
